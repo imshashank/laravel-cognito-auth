@@ -1,6 +1,6 @@
 {
     "name": "imshashank/laravel-cognito-auth",
-    "description": "An auth provider for Laravel for AWS Cognito.",
+    "description": "An auth provider for Laravel for AWS Cognito. ",
     "keywords": [
         "BlackBits",
         "AWS Cognito",
